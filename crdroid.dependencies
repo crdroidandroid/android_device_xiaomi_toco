@@ -1,0 +1,24 @@
+[
+  {
+    "repository": "crdroidandroid/android_device_xiaomi_sm6150-common",
+    "target_path": "device/xiaomi/sm6150-common",
+    "branch": "14.0-toco"
+  },
+  {
+    "repository": "crdroidandroid/android_kernel_xiaomi_sm6150",
+    "target_path": "kernel/xiaomi/sm6150",
+    "branch": "14.0-toco"
+  },
+  {
+    "repository": "crdroidandroid/proprietary_vendor_xiaomi_toco",
+    "target_path": "vendor/xiaomi/toco"
+  },
+  {
+    "repository": "crdroidandroid/proprietary_vendor_xiaomi_sm6150-common",
+    "target_path": "vendor/xiaomi/sm6150-common"
+  },
+  {
+    "repository": "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi"
+  }
+]
